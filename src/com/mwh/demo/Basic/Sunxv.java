@@ -1,4 +1,4 @@
-package com.mwh.demo;
+package com.mwh.demo.Basic;
 
 public class Sunxv {
 
